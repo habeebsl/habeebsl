@@ -16,7 +16,7 @@ I'm a Backend Developer
                     	
 ### **LIVE PROJECTS**
 - English2Morse (Translates between English and Morse Code) https://english2morse.onrender.com
-- KeyPoint (highlights key content from of a text) https://keypoint-website.onrender.com
+- KeyPoint (highlights key content of a text) https://keypoint-website.onrender.com
 - Quill2Byte (A django website, that translates between Shakespearean English and Modern English) https://quill2byte.onrender.com
 - TaskMaster API (API built with DRF, offering task creation, collaboration, and subtask assignment) https://taskmaster-api-9nna.onrender.com/
 
