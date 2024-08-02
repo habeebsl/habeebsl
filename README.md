@@ -41,7 +41,7 @@ A Django website that translates between Shakespearean English and Modern Englis
 ## [TaskMaster API](https://taskmaster-api-9nna.onrender.com)
 API built with DRF, offering task creation, collaboration, and subtask assignment.
 
-<img src="https://github.com/yourusername/yourrepo/images/taskmaster.png" alt="TaskMaster API Screenshot" style="border-radius: 15px; width: 80%; max-width: 400px;"/>
+<img src="https://github.com/habeebsl/project-images/blob/main/image%20(3).png" width="400" alt="TaskMaster API Screenshot">
 
 <!---
 habeebsl/habeebsl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
