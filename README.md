@@ -20,30 +20,29 @@ I'm a Backend Developer
 ## [English2Morse](https://english2morse.onrender.com)
 Translates between English and Morse Code.
 
-![English2Morse Screenshot](https://github.com/habeebsl/project-images/blob/main/morsesc.PNG)
+<img src="https://github.com/habeebsl/project-images/blob/main/morsesc.PNG" alt="English2Morse Screenshot" style="border-radius: 15px; width: 80%; max-width: 400px;"/>
 
 ---
 
 ## [KeyPoint](https://keypoint-website.onrender.com)
 Highlights key content of a text.
 
-![KeyPoint Screenshot](link-to-screenshot)
+<img src="https://imgur.com/yourimageid.png" alt="KeyPoint Screenshot" style="border-radius: 15px; width: 80%; max-width: 400px;"/>
 
 ---
 
 ## [Quill2Byte](https://quill2byte.onrender.com)
 A Django website that translates between Shakespearean English and Modern English.
 
-![Quill2Byte Screenshot](link-to-screenshot)
+<img src="https://drive.google.com/uc?id=yourfileid" alt="Quill2Byte Screenshot" style="border-radius: 15px; width: 80%; max-width: 400px;"/>
 
 ---
 
 ## [TaskMaster API](https://taskmaster-api-9nna.onrender.com)
 API built with DRF, offering task creation, collaboration, and subtask assignment.
 
-![TaskMaster API Screenshot](link-to-screenshot)
+<img src="https://github.com/yourusername/yourrepo/images/taskmaster.png" alt="TaskMaster API Screenshot" style="border-radius: 15px; width: 80%; max-width: 400px;"/>
 
----
 <!---
 habeebsl/habeebsl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
