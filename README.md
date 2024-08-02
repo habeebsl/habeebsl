@@ -20,7 +20,7 @@ I'm a Backend Developer
 ## [English2Morse](https://english2morse.onrender.com)
 Translates between English and Morse Code.
 
-![English2Morse Screenshot](link-to-screenshot)
+![English2Morse Screenshot](https://github.com/habeebsl/project-images/blob/main/morsesc.PNG)
 
 ---
 
