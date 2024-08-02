@@ -34,7 +34,7 @@ Highlights key content of a text.
 ## [Quill2Byte](https://quill2byte.onrender.com)
 A Django website that translates between Shakespearean English and Modern English.
 
-<img src="https://drive.google.com/uc?id=yourfileid" alt="Quill2Byte Screenshot" style="border-radius: 15px; width: 80%; max-width: 400px;"/>
+<img src="https://github.com/habeebsl/project-images/blob/main/image%20(5).png" width="400" alt="KeyPoint Screenshot">
 
 ---
 
