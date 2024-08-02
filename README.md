@@ -20,7 +20,13 @@ I'm a Backend Developer
 ## [English2Morse](https://english2morse.onrender.com)
 Translates between English and Morse Code.
 
-<div style="border: 2px solid black;">![Alt text](https://github.com/habeebsl/project-images/blob/main/morsesc.PNG)</div>
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <clipPath id="round-corners">
+    <rect width="100%" height="100%" rx="20" ry="20"/>
+  </clipPath>
+  <image width="100%" height="100%" preserveAspectRatio="xMidYMid slice"
+    xlink:href="https://github.com/habeebsl/project-images/blob/main/morsesc.PNG" clip-path="url(#round-corners)"/>
+</svg>
 
 ---
 
