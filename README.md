@@ -27,14 +27,14 @@ Translates between English and Morse Code.
 ## [KeyPoint](https://keypoint-website.onrender.com)
 Highlights key content of a text.
 
-<img src="https://imgur.com/yourimageid.png" alt="KeyPoint Screenshot" style="border-radius: 15px; width: 80%; max-width: 400px;"/>
+<img src="https://github.com/habeebsl/project-images/blob/main/image%20(4).png" width="400" alt="KeyPoint Screenshot">
 
 ---
 
 ## [Quill2Byte](https://quill2byte.onrender.com)
 A Django website that translates between Shakespearean English and Modern English.
 
-<img src="https://github.com/habeebsl/project-images/blob/main/image%20(5).png" width="400" alt="KeyPoint Screenshot">
+<img src="https://github.com/habeebsl/project-images/blob/main/image%20(5).png" width="400" alt="Quill2Byte Screenshot">
 
 ---
 
