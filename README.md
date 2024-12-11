@@ -5,8 +5,8 @@ I'm a Backend Developer
 -----------------------
 
 *   🌍  I'm based in Nigeria
-*   ✉️  You can contact me at [habeebomotolani2004@gmail.com](mailto:habeebomotolani2004@gmail.com)
-*   🧠  I'm learning Django and Applied Python
+*   ✉️  You can contact me at [habeebsalami09@gmail.com](mailto:habeebsalami09@gmail.com)
+*   🧠  I currently learning how to integrate AI into software applications
 *   🤝  I'm open to collaborating on Interesting Projects
   
   ### Skills 
