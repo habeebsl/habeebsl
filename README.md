@@ -1,7 +1,7 @@
 Hi 👋 My name is Habeeb Salami
 ==============================
 
-Backend Web Developer
+Backend Web Developer and Prompt Engineer
 ---------------------
 
 * 🌍  I'm based in Edo State, Nigeria
