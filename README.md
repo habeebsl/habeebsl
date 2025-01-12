@@ -9,7 +9,6 @@ Web Developer and AI Solutions Developer
 *   ✉️  You can contact me at [habeebsalami09@gmail.com](mailto:habeebsalami09@gmail.com)
 *   🚀  I'm currently working on [AI Therapist](http://ai-therapist-rho.vercel.app/)
 *   🧠  I'm learning React and FastAPI
-*
 
 ### Skills 
 <p align="left">
