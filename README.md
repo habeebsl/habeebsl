@@ -7,7 +7,7 @@ Web Developer and AI Solutions Developer
 *   🌍  I'm based in Edo State, Nigeria
 *   🖥️  See my portfolio at [habeebsalami.com](http://www.habeebsalami.com)
 *   ✉️  You can contact me at [habeebsalami09@gmail.com](mailto:habeebsalami09@gmail.com)
-*   🚀  I'm currently working on [Self Learning Email Marketer](https://github.com/habeebsl/email-marketer)
+*   🚀  I'm currently working on [Self-learning Email Marketer](https://github.com/habeebsl/email-marketer)
 *   🧠  I'm learning React and FastAPI
 
 ### Skills 
